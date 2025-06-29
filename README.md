@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Gabriela Viana 👋</h1>
+<h1 align="center">Hi there! I'm Gabriela Araújo 👋</h1>
 
 <p align="center">
   <img src="assets/lofi.gif.gif" alt="Lofi landscape gif" width="400"/>
@@ -46,9 +46,9 @@
 
 ---
 
-### 📫 How to reach me
+### 🌐 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anavibiga)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielavianadearaujo@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://github.com/anavibiga?tab=repositories)
-
+[![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@gabrielavianadearaujo)
