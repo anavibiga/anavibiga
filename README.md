@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Gabriela Viana 👋</h1>
 
-<!--
-**anavibiga/anavibiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/lofi.gif.gif" alt="Lofi landscape gif" width="400"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗨 About Me
+
+💡 Passionate about data, people, and strategy.  
+📊 Officially transitioning into Data Science, combining a strong background in analytics, marketing, and tech.  
+🎓 MSc student in Data Science and Artificial Intelligence (with focus on time series and concept drift).  
+📍 Solid experience with real-world data, insight generation, and performance optimization.  
+🔎 Curious by nature — I love uncovering patterns, asking the right questions, and building data-driven solutions.  
+
+---
+
+### ⚙️ Stack & Tools
+
+#### 💻 Daily use:
+- `Python` | `SQL` | `Git` | `VS Code` | `Power BI`
+
+#### 📊 Data Analysis & Data Science:
+- `Pandas` | `NumPy` | `Scikit-learn` | `Statsmodels` | `Matplotlib` | `Seaborn` | `Plotly`
+
+#### 🧠 Modeling:
+- Classification | Regression | Clustering | Time Series | Drift Detection | Feature Engineering
+
+#### 🌐 Databases & Cloud:
+- PostgreSQL | Redshift
+
+#### 🌱 Currently learning:
+- `R` for time series  
+- `PySpark` & `Databricks`  
+- `AWS` for data processing and storage
+
+---
+
+### 🔍 Current Interests
+
+- ⚽ Predictive analysis of in-game football events  
+- 🧪 Academic research on *Concept Drift*  
+- 🎵 Optimization of campaign performance and user behavior in streaming platforms  
+- 🧰 Automation of data analysis using Python
+
+---
+
+### 📫 How to reach me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anavibiga)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielavianadearaujo@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://github.com/anavibiga?tab=repositories)
+
