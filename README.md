@@ -9,7 +9,7 @@
 ### 🗨 About Me
 
 💡 Passionate about data, people, and strategy.  
-📊 Officially transitioning into Data Science, combining a strong background in analytics, marketing, and tech.  
+📊 Data Scientist with a strong background in analytics, marketing, and tech.  
 🎓 MSc student in Data Science and Artificial Intelligence (with focus on time series and concept drift).  
 📍 Solid experience with real-world data, insight generation, and performance optimization.  
 🔎 Curious by nature — I love uncovering patterns, asking the right questions, and building data-driven solutions.  
