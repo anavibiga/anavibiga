@@ -1,49 +1,44 @@
-<h1 align="center">Hi there! I'm Gabriela Araújo 👋</h1>
+<h1 align="center">Hi, I'm Gabriela Araújo 👋</h1>
 
 <p align="center">
   <img src="assets/lofi.gif.gif" alt="Lofi landscape gif" width="400"/>
 </p>
 
----
+**Data Scientist** with 10 years in data roles across music & entertainment (Sony Music) and consumer goods (Farmax).
+I build forecasting, recommendation and LLM-agent solutions — and translate them into business decisions, from C-level presentations to models in production.
 
-### 🗨 About Me
-💡 Passionate about data, people, and strategy.  
-📊 Data Scientist specializing in recommendation systems, forecasting, time series, and AI agents.  
-🎓 Finishing my MSc in Data Science and Artificial Intelligence this month (focus on time series & concept drift).  
-🤖 Currently working with AI agents and generative AI, applying LLMs to real-world problems.  
-📍 Solid experience with real-world data, insight generation, and performance optimization.  
-🔎 Curious by nature — I love uncovering patterns, asking the right questions, and building data-driven solutions.  
+🎓 MSc in Computer Science (CEFET/RJ, 2026) — concept drift in time series · 📄 Paper at SBBD 2026  
+🌎 Open to remote roles (Brazil, LATAM, global) · 🇧🇷 Portuguese · 🇺🇸 English · 🇪🇸 Spanish
 
 ---
 
-### ⚙️ Stack & Tools
-#### 💻 Daily use:
-- `Python` | `SQL` | `Git` | `VS Code` | `Power BI`
+### 📈 Selected work
+*Company projects — code is not public.*
 
-#### 📊 Data Analysis & Data Science:
-- `Pandas` | `NumPy` | `Scikit-learn` | `Statsmodels` | `Matplotlib` | `Seaborn` | `Plotly`
+- **Demand forecasting** — monthly forecast for ~70 SKUs (M+1 to M+3); **94% accuracy at M+1** over a 6-month test, vs. 60–70% from manual targets. Deployed on AWS.
+- **Freight recommender (POC)** — LightGBM + geographic data to recommend carriers; **estimated savings of up to R$ 88k/month**.
+- **AI agents** — LLM agent that checks customers' registration status before invoicing; data agent on Microsoft Fabric/Copilot for C-level questions; **semantic layer for AI agents** (glossary, metric views, lineage) on DataHub + Redshift via MCP.
+- **Growth marketing @ Sony Music** — data-driven experimentation: **+17% market share and +12% revenue** in one year; campaign CPC down from R$ 0.08 to R$ 0.01.
+- **Music analytics** — forecasts for 200+ artists; built the data foundation for Brazilian music in the US market (Miami).
 
-#### 🧠 Modeling:
-- Classification | Regression | Clustering | Time Series | Recommendation Systems | Forecasting | Feature Engineering | AI Agents | LLM Orchestration
-
-#### 🌐 Databases & Cloud:
-- PostgreSQL | Redshift
-
-#### 🌱 Currently learning:
-- `R` for time series  
-- `PySpark` & `Databricks`  
-- `AWS` for data processing and storage  
-- Media Mix Modeling (MMM) & marketing attribution  
-- Generative AI & AI agent frameworks  
+### 🔬 Research
+- *Concept drift methods for goal prediction in professional football* — [SBBD 2026](https://sol.sbc.org.br/index.php/sbbd/article/view/44018) · [code](https://github.com/anavibiga/mestrado-drift-detection)
 
 ---
 
-### 🔍 Current Interests
-- ⚽ Predictive analysis of in-game football events  
-- 🎵 Optimization of campaign performance and user behavior in streaming platforms  
-- 🧰 Automation of data analysis using Python  
-- 📣 Media Mix Modeling & marketing attribution  
-- 🤖 Generative AI & AI agent systems
+### ⚙️ Stack
+- **Languages:** `Python` · `SQL` · `R`
+- **Data science & ML:** `pandas` · `NumPy` · `scikit-learn` · `LightGBM` · `statsmodels` · time series · recommendation systems · feature engineering
+- **Experimentation:** A/B testing · hypothesis testing · difference-in-differences
+- **GenAI:** OpenAI & Anthropic APIs · AI agents · MCP · Claude Code · Microsoft Fabric/Copilot
+- **Data & MLOps:** AWS (Redshift) · PySpark · MLflow · Docker · DataHub · PostgreSQL · Git
+- **BI & viz:** Power BI · Tableau · Alteryx · Streamlit · Matplotlib · Seaborn · Plotly
+
+### 🌱 Learning now
+Databricks · RAG and LLM evaluation · PyTorch · Media Mix Modeling & marketing attribution
+
+### 🔍 Interests
+⚽ Predictive analysis of football events · 🎵 Streaming & campaign performance · 📣 Marketing measurement · 🤖 AI agent systems
 
 ---
 
